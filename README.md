@@ -1,4 +1,4 @@
-<h1 align="center">Button Generator with RecyclerView</h1>
+<h1 align="center">Button Generator with Recycler View</h1>
 
 <p align="center">
   <!-- Stability -->
